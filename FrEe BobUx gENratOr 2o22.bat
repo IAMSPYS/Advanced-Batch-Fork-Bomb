@@ -4,7 +4,7 @@ REM This fork bomb is kinda a satire on those "Free Robux generator" websites on
 REM Input "SrpB" in any of the input boxes to stop the process
 REM Make sure to delete AmogusBomb.bat and AmogusBomb.vbs inside Startup directory or else the problem will not be gone
 REM Written in Batch
-REM VirusTotal: https://www.virustotal.com/gui/file/93fd6442406fd021dfd512feebe999a20b07554f8984995daee6b89ab72a76e5
+REM VirusTotal: https://www.virustotal.com/gui/file/2ade4ee024fcf9f4cec5b5640467693083b1cb52bb86955b102ccfc9fb503c11
 
 @echo off
 cls
